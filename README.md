@@ -1,4 +1,4 @@
 # MachineLearning Projects
-Movie Recommendations Syatem using python with webapplication.
-Iris detection project using python.
+Movie Recommendations System using python with webapplication,
+Iris detection project using python,
 House Price Prediction using python.
